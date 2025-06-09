@@ -1,0 +1,14 @@
+{
+    "Temp": [
+        {
+            "symbol": "AAPL",
+            "shares": 25,
+            "cost_price": 100.0
+        },
+        {
+            "symbol": "GOOGL",
+            "shares": 10,
+            "cost_price": 80.0
+        }
+    ]
+}
